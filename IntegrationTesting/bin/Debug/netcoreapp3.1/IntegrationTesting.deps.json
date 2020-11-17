@@ -14,6 +14,7 @@
           "xunit": "2.4.0",
           "xunit.runner.visualstudio": "2.4.0",
           "IIG.DatabaseConnectionUtils": "1.0.0.0",
+          "IIG.FileWorker": "1.0.0.0",
           "IIG.PasswordHashingUtils": "1.0.0.0"
         },
         "runtime": {
@@ -773,6 +774,14 @@
           }
         }
       },
+      "IIG.FileWorker/1.0.0.0": {
+        "runtime": {
+          "IIG.FileWorker.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "IIG.PasswordHashingUtils/1.0.0.0": {
         "runtime": {
           "IIG.PasswordHashingUtils.dll": {
@@ -1196,6 +1205,11 @@
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
     },
     "IIG.DatabaseConnectionUtils/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IIG.FileWorker/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

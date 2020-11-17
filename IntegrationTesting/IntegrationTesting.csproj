@@ -18,6 +18,9 @@
     <Reference Include="IIG.DatabaseConnectionUtils">
       <HintPath>D:\Lab4\IIG.DatabaseConnectionUtils.dll</HintPath>
     </Reference>
+    <Reference Include="IIG.FileWorker">
+      <HintPath>D:\Lab4\IIG.FileWorker.dll</HintPath>
+    </Reference>
     <Reference Include="IIG.PasswordHashingUtils">
       <HintPath>D:\Lab4\IIG.PasswordHashingUtils.dll</HintPath>
     </Reference>

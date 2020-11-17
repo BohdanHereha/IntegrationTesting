@@ -102,3 +102,4 @@ C:\Users\gereg\source\repos\IntegrationTesting\IntegrationTesting\bin\Debug\netc
 C:\Users\gereg\source\repos\IntegrationTesting\IntegrationTesting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\gereg\source\repos\IntegrationTesting\IntegrationTesting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\gereg\source\repos\IntegrationTesting\IntegrationTesting\obj\Debug\netcoreapp3.1\IntegrationTesting.csproj.CoreCompileInputs.cache
+C:\Users\gereg\source\repos\IntegrationTesting\IntegrationTesting\bin\Debug\netcoreapp3.1\IIG.FileWorker.dll
